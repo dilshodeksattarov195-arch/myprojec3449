@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailearse",
+        "uuid": 6732448,
+        "checksum": "uvmndz"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
